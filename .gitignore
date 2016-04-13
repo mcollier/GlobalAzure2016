@@ -245,5 +245,5 @@ ModelManifest.xml
 .fake/
 
 # Misc files
-secretAppSettings.config
-secretConnectionStrings.config
+HelloWorld/HelloWorld/secretAppSettings.config
+HelloWorld/HelloWorld/secretConnectionStrings.config
