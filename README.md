@@ -1,1 +1,1 @@
-# globalazure2016-demo
+# GlobalAzure2016
