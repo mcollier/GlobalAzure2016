@@ -1,4 +1,6 @@
-    Login-AzureRmAccount
+Get all this at https://github.com/Azure/azure-quickstart-templates/tree/master/201-2-vms-loadbalancer-lbrules
+    
+	Login-AzureRmAccount
 
     #Select-AzureRmSubscription <subscription-id>
 
