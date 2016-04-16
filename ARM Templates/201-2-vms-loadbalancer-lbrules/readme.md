@@ -2,7 +2,7 @@ Get all this at https://github.com/Azure/azure-quickstart-templates/tree/master/
     
 	Login-AzureRmAccount
 
-    #Select-AzureRmSubscription <subscription-id>
+    #Select-AzureRmSubscription -SubscriptionId <subscription-id>
 
     New-AzureRmResourceGroup -Name GlobalAzure2016-vm-2 -Location eastus
 
